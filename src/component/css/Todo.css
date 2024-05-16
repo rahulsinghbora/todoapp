@@ -1,0 +1,40 @@
+.container{
+    background: #fff;
+    width: fit-content;
+    min-height: 300px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 15px;
+}
+.to-do-add input{
+ width: 400px;
+ height: 48px;
+ padding: 10px 30px;
+ border: none;
+ outline: none;
+ background: rgb(201, 198, 198);
+ border-radius: 50px;
+ font-size: 16px;
+ padding-right: 50px;
+}
+.to-do-add{
+    margin: 20px 0;
+    position: relative;
+}
+.to-do-add button{
+    height: 48px;
+    width: 90px;
+ padding: 10px 20px;
+ border-radius: 50px;
+ background-color: orangered;
+ color: #fff;
+ font-size: 16px;
+ cursor: pointer;
+font-weight: 400;
+ border: none;
+ outline: none;
+ position: absolute;
+ top: 0;
+ right: 0;
+}

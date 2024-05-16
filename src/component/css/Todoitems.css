@@ -1,0 +1,25 @@
+.todoitems{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 0;
+}
+.display-container{
+    display: flex;
+
+}
+.text{
+    padding-left: 16px;
+    color: #404040;
+    font-size: 22px;
+}
+.cross{
+    cursor: pointer;
+    padding-right: 25px;
+}
+.line-through{
+    text-decoration: line-through solid #ADADAD 3px;
+}
+.done{
+    cursor: pointer;
+}
